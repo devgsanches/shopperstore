@@ -18,7 +18,7 @@ export default function Produto({
         &#9733;&#9733;&#9733;&#9733;&#9733;
       </p>
       <p className="price">
-        <span>R$ </span>{price},00
+        <span>R$ </span>{price}
       </p>
       <div className="buttons">
         <Link to="/products/123/checkout" className='btn-icon'>
